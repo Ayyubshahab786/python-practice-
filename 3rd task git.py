@@ -5,4 +5,4 @@ print(add(2,25))
 
 def sub(a,b):
     return a-b
-print(sub(55-34))
+print(sub(55,34))
